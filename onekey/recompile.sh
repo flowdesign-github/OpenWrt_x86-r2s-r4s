@@ -120,6 +120,6 @@ echo "
 编译完成~~~
 
 初始后台地址: $ip
-初始用户名密码: admin  password
+初始用户名密码: root  root
 
 "
